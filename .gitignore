@@ -161,3 +161,7 @@ main/trained_models_cnn_mps
 *Studio*
 
 *DS_Store*
+
+.idea/
+main/trained_models*
+main/logs
